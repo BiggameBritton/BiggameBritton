@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BiggameBritton
-- 👀 I’m interested in learning web developing 
-- 🌱 I’m currently learning HTML, JAVA and CSS
+- 👀 I’m interested in learning data and business analyzing 
+- 🌱 I’m currently learning HTML, JAVA, CSS, Python and SQL. 
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me ...
 
